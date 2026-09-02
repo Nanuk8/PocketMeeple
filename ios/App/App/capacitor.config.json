@@ -1,0 +1,23 @@
+{
+	"appId": "com.pocketmeeple.app",
+	"appName": "PocketMeeple",
+	"webDir": "dist/client",
+	"server": {
+		"androidScheme": "https",
+		"cleartext": false
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"ios": {
+		"contentInset": "automatic"
+	},
+	"android": {
+		"allowMixedContent": false,
+		"captureInput": true,
+		"webContentsDebuggingEnabled": false
+	},
+	"packageClassList": []
+}

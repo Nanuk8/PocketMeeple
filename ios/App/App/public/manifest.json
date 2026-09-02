@@ -1,0 +1,9 @@
+{
+  "name": "PocketMeeple · Marcador",
+  "short_name": "PocketMeeple",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a2b4a",
+  "theme_color": "#5a2d1a",
+  "icons": []
+}

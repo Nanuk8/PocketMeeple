@@ -1,0 +1,1 @@
+ALTER TABLE public.matches ADD COLUMN IF NOT EXISTS game_modifiers JSONB NOT NULL DEFAULT '{}'::jsonb;
